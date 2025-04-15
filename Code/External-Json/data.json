@@ -7,17 +7,38 @@
         "video":"coder"
     },
     {
-        "video":"coder",
         "user":"@user2",
         "description":"video 2",
         "audio":"mio",
-        "source":"../assets/video/night-life.mp4"
+        "source":"../assets/video/night-life.mp4",
+        "video":"coder"
     },
     {
-        "video":"coder",
         "user":"@user3",
         "description":"video 3",
         "audio":"mio",
-        "source":"../assets/video/starry_sky.mp4"
+        "source":"../assets/video/starry_sky.mp4",
+        "video":"coder"
+    },
+    {
+        "user":"@user1",
+        "description":"video 1",
+        "audio":"mio",
+        "source":"../assets/video/coder.mp4",
+        "video":"coder"
+    },
+    {
+        "user":"@user2",
+        "description":"video 2",
+        "audio":"mio",
+        "source":"../assets/video/night-life.mp4",
+        "video":"coder"
+    },
+    {
+        "user":"@user3",
+        "description":"video 3",
+        "audio":"mio",
+        "source":"../assets/video/starry_sky.mp4",
+        "video":"coder"
     }
 ]
